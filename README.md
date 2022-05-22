@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikasreddy636
+- 👋 Hi, I’m Ginne Vikas Reddy
 - 👀 I’m interested in Robotics, machine learning
 - 🌱 I’m currently learning Transformers 
 - 📫 How to reach me vikasreddy636@rediffmail.com
