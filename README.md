@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ginne Vikas Reddy
-- 👀 I’m interested in Robotics, machine learning
+- 👀 I’m interested in Robotics, machine learning, deep learning and cyber security 
 - 🌱 I’m currently learning Transformers 
 - 📫 How to reach me vikasreddy636@rediffmail.com
 
